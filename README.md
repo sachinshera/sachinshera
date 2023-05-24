@@ -1,5 +1,5 @@
 # 💫  This is Sachin Kumar 
- Currently working on notesocean.com
+ Developing <a href="https://notesocean.com"> Notes ocean </a>
 
 
 ## 🌐 Socials:

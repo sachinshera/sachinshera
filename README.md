@@ -1,5 +1,4 @@
-# 💫  This is Sachin Kumar 
- Developing <a href="https://notesocean.com"> Notes ocean </a>
+# 💫  This is Sachin Kumar
 
 
 ## 🌐 Socials:
